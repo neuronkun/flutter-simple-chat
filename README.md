@@ -1,1 +1,1 @@
-## Simple Chat App inspired by londonappbrewery/bmi-calculator-flutter
+## Simple Chat App inspired by londonappbrewery
